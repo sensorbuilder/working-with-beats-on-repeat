@@ -27,14 +27,17 @@ All stations are **authentication-free** and work directly in VLC without any lo
    ```
    https://bit.ly/beats-on-repeat
    ```
+   or scan
+   ```
+   
+   ```
+3. **Open VLC Media Player**
 
-2. **Open VLC Media Player**
+4. **Go to:** `Media` → `Open Network Stream` (or press `Ctrl+N` / `Cmd+N` on Mac)
 
-3. **Go to:** `Media` → `Open Network Stream` (or press `Ctrl+N` / `Cmd+N` on Mac)
+5. **Paste the URL** into the network address field
 
-4. **Paste the URL** into the network address field
-
-5. **Click "Play"** - The playlist will load automatically!
+6. **Click "Play"** - The playlist will load automatically!
 
 ### Method 2: Download and Open Locally
 
