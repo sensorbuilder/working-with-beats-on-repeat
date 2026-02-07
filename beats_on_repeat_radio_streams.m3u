@@ -109,21 +109,3 @@ http://strm112.1.fm/dance_mobile_mp3
 
 #EXTINF:-1 group-title="International",Ibiza Global Radio (Spain)
 http://ibizaglobalradio.streaming-pro.com:8024/
-
-#EXTINF:-1 group-title="International",Radio Record - Main Mix (Russia)
-http://air.radiorecord.ru:8102/rr_320
-
-#EXTINF:-1 group-title="International",Radio Record - Trancemission (Russia)
-http://air.radiorecord.ru:8102/tm_320
-
-#EXTINF:-1 group-title="International",Radio Record - Vip House (Russia)
-http://air.radiorecord.ru:8102/vip_320
-
-#EXTINF:-1 group-title="International",Radio Record - Breaks (Russia)
-http://air.radiorecord.ru:8102/brks_320
-
-#EXTINF:-1 group-title="International",Radio Record - Dream Dance (Russia)
-http://air.radiorecord.ru:8102/dd_320
-
-#EXTINF:-1 group-title="International",Radio Record - EDM Hits (Russia)
-http://air.radiorecord.ru:8102/edmhits_320
