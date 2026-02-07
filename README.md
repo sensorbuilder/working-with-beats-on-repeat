@@ -21,7 +21,7 @@ All stations are organized by category for easy navigation!
 
 1. **Copy the raw file URL:**
    ```
-   https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/slam_radio_streams.m3u
+   https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/beats_on_repeat_radio_streams.m3u
    ```
 
 2. **Open VLC Media Player**
@@ -35,7 +35,7 @@ All stations are organized by category for easy navigation!
 ### Method 2: Download and Open Locally
 
 1. **Download the file:**
-   - Click on `slam_radio_streams.m3u` in this repository
+   - Click on `beats_on_repeat_radio_streams.m3u` in this repository
    - Click the "Download" button (or right-click "Raw" → "Save Link As...")
 
 2. **Open in VLC:**
@@ -67,7 +67,7 @@ This M3U playlist works with most media players:
 - **Winamp**: Play → URL → Paste URL
 - **iTunes/Music**: File → Open Stream → Paste URL
 - **Kodi**: Add Video Source → Browse → Add Network Location
-- **MPV**: `mpv https://raw.githubusercontent.com/...`
+- **MPV**: `mpv https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/beats_on_repeat_radio_streams.m3u`
 
 ## 📋 Station Categories
 
@@ -163,7 +163,7 @@ This M3U playlist works with most media players:
 Found a broken link or want to add a station? 
 
 1. Fork this repository
-2. Edit the `slam_radio_streams.m3u` file
+2. Edit the `beats_on_repeat_radio_streams.m3u` file
 3. Test the stream in VLC
 4. Submit a pull request
 
@@ -211,6 +211,6 @@ February 2026
 
 ---
 
-**Enjoy your dance music! 🎶💃🕺**
+**Enjoy your dance music for working out! 🎶💃🕺**
 
 *If you find this playlist useful, please star ⭐ this repository!*
