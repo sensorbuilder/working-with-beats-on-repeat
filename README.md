@@ -1,4 +1,4 @@
-# 🎵 Dance & Non-Stop Dance Radio Streams
+# 🎵 Beats on Repeat - Dance & Non-Stop Dance Radio Streams
 
 A curated collection of 50+ dance radio stations from the Netherlands and around the world, perfect for VLC Media Player and other streaming audio players.
 
