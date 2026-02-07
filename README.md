@@ -1,4 +1,4 @@
-# 🎵 Dance & Non-Stop Dance Radio Streams
+# 🎵 Dance & Non-Stop Dance Streams for working out
 
 A curated collection of 35+ **verified working** dance radio stations from the Netherlands and around the world, perfect for VLC Media Player and other streaming audio players.
 
@@ -21,7 +21,7 @@ All stations are **authentication-free** and work directly in VLC without any lo
 
 1. **Copy the raw file URL:**
    ```
-   https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/slam_radio_streams.m3u
+   https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/beats_on_repeat_radio_streams.m3u
    ```
    *(Replace with your actual GitHub username and repository name)*
 
@@ -36,7 +36,7 @@ All stations are **authentication-free** and work directly in VLC without any lo
 ### Method 2: Download and Open Locally
 
 1. **Download the file:**
-   - Click on `slam_radio_streams.m3u` in this repository
+   - Click on `beats_on_repeat_radio_streams.m3u` in this repository
    - Click the "Download" button (or right-click "Raw" → "Save Link As...")
 
 2. **Open in VLC:**
@@ -105,11 +105,6 @@ This M3U playlist works with most media players:
 
 ### 🌍 International Stations
 
-#### Radio Record (Russia)
-Russia's largest dance music network with multiple channels:
-- Main Mix, Trancemission, Vip House
-- Breaks, Dream Dance, EDM Hits
-
 #### Other International
 - 1.FM Dance One (Germany) - International dance hits
 - Ibiza Global Radio (Spain) - Live from Ibiza
@@ -168,7 +163,7 @@ Russia's largest dance music network with multiple channels:
 Found a broken link or want to add a station? 
 
 1. Fork this repository
-2. Edit the `slam_radio_streams.m3u` file
+2. Edit the `beats_on_repeat_radio_streams.m3u` file
 3. Test the stream in VLC
 4. Submit a pull request
 
