@@ -21,9 +21,8 @@ All stations are organized by category for easy navigation!
 
 1. **Copy the raw file URL:**
    ```
-   https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/slam_radio_streams.m3u
+   https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/slam_radio_streams.m3u
    ```
-   *(Replace with your actual GitHub username and repository name)*
 
 2. **Open VLC Media Player**
 
