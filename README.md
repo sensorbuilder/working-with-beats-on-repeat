@@ -11,7 +11,7 @@ This M3U playlist includes:
 - **2 Qmusic channels** - Including Tomorrowland's One World Radio!
 - **3 Sublime channels** - Soul, R&B and dance classics
 - **8 Other Dutch dance stations** - Kiss FM, Intense Radio, FunX, and more
-- **8 International stations** - Radio Record (Russia), Ibiza Global Radio, 1.FM, and more
+- **2 International stations** - Ibiza Global Radio, 1.FM
 
 All stations are **authentication-free** and work directly in VLC without any login required!
 
