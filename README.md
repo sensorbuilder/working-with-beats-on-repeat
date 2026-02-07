@@ -1,4 +1,4 @@
-# 🎵 Dance & Non-Stop Dance Streams for working out
+# 🎵 M3U - Dance & Non-Stop Dance Streams for working out
 
 A curated collection of 35+ **verified working** dance radio stations from the Netherlands and around the world, perfect for VLC Media Player and other streaming audio players.
 
