@@ -104,59 +104,26 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWCAZ.mp3
 # INTERNATIONAL DANCE STATIONS
 # ========================================
 
-#EXTINF:-1 group-title="International",1.FM - Dance One Radio
+#EXTINF:-1 group-title="International",1.FM - Dance One Radio (Germany)
 http://strm112.1.fm/dance_mobile_mp3
 
-#EXTINF:-1 group-title="International",DI.FM - Trance (Free Stream)
-http://prem2.di.fm:80/trance?
+#EXTINF:-1 group-title="International",Ibiza Global Radio (Spain)
+http://ibizaglobalradio.streaming-pro.com:8024/
 
-#EXTINF:-1 group-title="International",DI.FM - House (Free Stream)
-http://prem2.di.fm:80/house?
-
-#EXTINF:-1 group-title="International",DI.FM - Progressive (Free Stream)
-http://prem2.di.fm:80/progressive?
-
-#EXTINF:-1 group-title="International",DI.FM - Vocal Trance (Free Stream)
-http://prem2.di.fm:80/vocaltrance?
-
-#EXTINF:-1 group-title="International",DI.FM - Chillout (Free Stream)
-http://prem2.di.fm:80/chillout?
-
-#EXTINF:-1 group-title="International",DI.FM - Deep House (Free Stream)
-http://prem2.di.fm:80/deephouse?
-
-#EXTINF:-1 group-title="International",DI.FM - Tech House (Free Stream)
-http://prem2.di.fm:80/techhouse?
-
-#EXTINF:-1 group-title="International",DI.FM - Electro House (Free Stream)
-http://prem2.di.fm:80/electrohouse?
-
-#EXTINF:-1 group-title="International",DI.FM - Hardcore (Free Stream)
-http://prem2.di.fm:80/hardcore?
-
-#EXTINF:-1 group-title="International",DI.FM - Techno (Free Stream)
-http://prem2.di.fm:80/techno?
-
-#EXTINF:-1 group-title="International",DI.FM - Drum and Bass (Free Stream)
-http://prem2.di.fm:80/drumandbass?
-
-#EXTINF:-1 group-title="International",NonStopPlay UK - 192k
-http://stream.nonstopplay.co.uk/nsp-192k-mp3
-
-#EXTINF:-1 group-title="International",Clubberry FM - Trancehouse
-http://stream.clubberry.fm/trancehouse.m3u
-
-#EXTINF:-1 group-title="International",Dance Wave Radio
-http://dancewave.online:8080/dance.mp3
-
-#EXTINF:-1 group-title="International",Radio Record - Main Mix
+#EXTINF:-1 group-title="International",Radio Record - Main Mix (Russia)
 http://air.radiorecord.ru:8102/rr_320
 
-#EXTINF:-1 group-title="International",Radio Record - Trancemission
+#EXTINF:-1 group-title="International",Radio Record - Trancemission (Russia)
 http://air.radiorecord.ru:8102/tm_320
 
-#EXTINF:-1 group-title="International",Radio Record - Vip House
+#EXTINF:-1 group-title="International",Radio Record - Vip House (Russia)
 http://air.radiorecord.ru:8102/vip_320
 
-#EXTINF:-1 group-title="International",Ibiza Global Radio
-http://ibizaglobalradio.streaming-pro.com:8024/;
+#EXTINF:-1 group-title="International",Radio Record - Breaks (Russia)
+http://air.radiorecord.ru:8102/brks_320
+
+#EXTINF:-1 group-title="International",Radio Record - Dream Dance (Russia)
+http://air.radiorecord.ru:8102/dd_320
+
+#EXTINF:-1 group-title="International",Radio Record - EDM Hits (Russia)
+http://air.radiorecord.ru:8102/edmhits_320

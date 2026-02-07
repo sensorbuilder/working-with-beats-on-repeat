@@ -1,6 +1,6 @@
-# 🎵 Beats on Repeat - Dance & Non-Stop Dance Radio Streams
+# 🎵 Dance & Non-Stop Dance Radio Streams
 
-A curated collection of 50+ dance radio stations from the Netherlands and around the world, perfect for VLC Media Player and other streaming audio players.
+A curated collection of 35+ **verified working** dance radio stations from the Netherlands and around the world, perfect for VLC Media Player and other streaming audio players.
 
 ## 📻 What's Inside
 
@@ -11,9 +11,9 @@ This M3U playlist includes:
 - **2 Qmusic channels** - Including Tomorrowland's One World Radio!
 - **3 Sublime channels** - Soul, R&B and dance classics
 - **8 Other Dutch dance stations** - Kiss FM, Intense Radio, FunX, and more
-- **23+ International stations** - DI.FM channels, Radio Record, Ibiza Global Radio, and more
+- **8 International stations** - Radio Record (Russia), Ibiza Global Radio, 1.FM, and more
 
-All stations are organized by category for easy navigation!
+All stations are **authentication-free** and work directly in VLC without any login required!
 
 ## 🚀 Quick Start
 
@@ -21,8 +21,9 @@ All stations are organized by category for easy navigation!
 
 1. **Copy the raw file URL:**
    ```
-   https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/beats_on_repeat_radio_streams.m3u
+   https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/slam_radio_streams.m3u
    ```
+   *(Replace with your actual GitHub username and repository name)*
 
 2. **Open VLC Media Player**
 
@@ -35,7 +36,7 @@ All stations are organized by category for easy navigation!
 ### Method 2: Download and Open Locally
 
 1. **Download the file:**
-   - Click on `beats_on_repeat_radio_streams.m3u` in this repository
+   - Click on `slam_radio_streams.m3u` in this repository
    - Click the "Download" button (or right-click "Raw" → "Save Link As...")
 
 2. **Open in VLC:**
@@ -67,7 +68,7 @@ This M3U playlist works with most media players:
 - **Winamp**: Play → URL → Paste URL
 - **iTunes/Music**: File → Open Stream → Paste URL
 - **Kodi**: Add Video Source → Browse → Add Network Location
-- **MPV**: `mpv https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/beats_on_repeat_radio_streams.m3u`
+- **MPV**: `mpv https://raw.githubusercontent.com/...`
 
 ## 📋 Station Categories
 
@@ -104,18 +105,16 @@ This M3U playlist works with most media players:
 
 ### 🌍 International Stations
 
-#### DI.FM (Digitally Imported)
-12 specialized electronic music channels including:
-- Trance, House, Progressive
-- Vocal Trance, Chillout
-- Deep House, Tech House, Electro House
-- Hardcore, Techno, Drum & Bass
+#### Radio Record (Russia)
+Russia's largest dance music network with multiple channels:
+- Main Mix, Trancemission, Vip House
+- Breaks, Dream Dance, EDM Hits
 
 #### Other International
-- Radio Record (Russia) - Massive dance network
-- Ibiza Global Radio - Live from Ibiza
-- NonStopPlay UK - British dance radio
-- 1.FM Dance One - International dance hits
+- 1.FM Dance One (Germany) - International dance hits
+- Ibiza Global Radio (Spain) - Live from Ibiza
+
+**Note**: Many international services like DI.FM and RadioTunes have discontinued free third-party streaming access and now require authentication through their apps or premium subscriptions. This playlist focuses on truly free, authentication-free streams.
 
 ## 🔧 Troubleshooting
 
@@ -128,6 +127,12 @@ This M3U playlist works with most media players:
 - Some stations may be temporarily offline
 - Try another station from the same country/category
 - Clear VLC cache: Tools → Preferences → Input/Codecs → Clear
+
+### "Authentication required" or "401 Unauthorized" error
+- This playlist only includes **free, no-authentication streams**
+- Many services (DI.FM, RadioTunes, etc.) now require paid subscriptions for third-party access
+- All Dutch stations from Webradiozenders are confirmed working without login
+- If you see this error, the station may have changed their policy - please report it as an issue
 
 ### Buffering issues
 - Check your internet speed
@@ -163,7 +168,7 @@ This M3U playlist works with most media players:
 Found a broken link or want to add a station? 
 
 1. Fork this repository
-2. Edit the `beats_on_repeat_radio_streams.m3u` file
+2. Edit the `slam_radio_streams.m3u` file
 3. Test the stream in VLC
 4. Submit a pull request
 
@@ -211,6 +216,6 @@ February 2026
 
 ---
 
-**Enjoy your dance music for working out! 🎶💃🕺**
+**Enjoy your dance music! 🎶💃🕺**
 
 *If you find this playlist useful, please star ⭐ this repository!*
