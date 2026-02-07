@@ -23,7 +23,6 @@ All stations are **authentication-free** and work directly in VLC without any lo
    ```
    https://raw.githubusercontent.com/sensorbuilder/working-with-beats-on-repeat/main/beats_on_repeat_radio_streams.m3u
    ```
-   *(Replace with your actual GitHub username and repository name)*
 
 2. **Open VLC Media Player**
 
