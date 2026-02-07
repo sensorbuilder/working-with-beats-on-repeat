@@ -27,10 +27,6 @@ All stations are **authentication-free** and work directly in VLC without any lo
    ```
    https://bit.ly/beats-on-repeat
    ```
-   or scan
-   ```
-   
-   ```
 3. **Open VLC Media Player**
 
 4. **Go to:** `Media` → `Open Network Stream` (or press `Ctrl+N` / `Cmd+N` on Mac)
